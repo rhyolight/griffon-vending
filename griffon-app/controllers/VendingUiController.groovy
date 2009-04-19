@@ -32,7 +32,6 @@ class VendingUiController {
     }
     
     def coinReturn = { evt = null ->
-        println model.status
         model.status = model.vendor.coinReturn()
     }
 }

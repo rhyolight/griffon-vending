@@ -5,5 +5,5 @@ class VendingUiModel {
     @Bindable VendingMachine vendor
     @Bindable ListModel inventoryListModel
     @Bindable String status
-    @Bindable String itemCode = 'A1'
+    @Bindable String itemCode = ''
 }
