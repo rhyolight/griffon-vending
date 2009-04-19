@@ -1,0 +1,4 @@
+dollars:10
+quarters:50
+dimes:50
+nickels:50
